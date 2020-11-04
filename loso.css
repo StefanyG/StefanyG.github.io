@@ -104,7 +104,7 @@ p {
 }
 /* Header */
 .header {
-	background-image: url('../images/header-bg.jpg');
+	background-image: url('https://raw.githubusercontent.com/StefanyG/django/main/header-bg.jpg');
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-position: 50% 50%;
@@ -275,7 +275,7 @@ p {
 /* Testimonios */
 
 .testimonial {
-	background-image: url('../images/testimonial-bg.jpg');
+	background-image: url('https://raw.githubusercontent.com/StefanyG/django/main/testimonial-bg.jpg');
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -448,7 +448,7 @@ p {
 /* Contador */
 
 .counter {
-	background-image: url('../images/counter-bg.jpg');
+	background-image: url('https://raw.githubusercontent.com/StefanyG/django/main/counter-bg.jpg');
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
